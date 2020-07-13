@@ -1,0 +1,125 @@
+/* lg */ 
+@media (min-width: 1200px) {
+
+}
+
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+.mainmenu .navbar-nav > li > a {
+  color: #fff;
+  padding: 11px 8px;
+}
+
+ .mainmenu .navbar-brand {
+  color: #eeeeee;
+  padding: 10px 6px;
+}
+
+.social-button p {
+  color: #b8b8b8;
+  float: left;
+  margin: 7px 20px 7px -28px;
+}
+
+
+
+}
+
+
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+.feauture {
+  float: left;
+  margin-right: 10px;
+  margin-top: 20px;
+  width: 220px;
+}
+
+
+
+.technology {
+  margin-bottom: 30px;
+  overflow:hidden;
+}
+.noticepage {
+  margin: 15px 0;
+}
+
+.clglogo {
+  float: none;
+}
+
+.govlgo {
+  float: none;
+  margin-top: 15px;
+}
+
+.social-button p {
+  color: #b8b8b8;
+  float: left;
+  margin: 7px 20px 7px -50px;
+}
+
+
+.npost img {
+  float: none;
+}
+
+}
+
+/* xs */
+@media (max-width: 767px) {
+.clglogo{
+	float:none;
+
+}
+.govlgo{
+	float:none;
+}
+.mainmenu .dropdown-menu > li > a {
+  color: #ffffff;
+}
+.mainmenu .dropdown-menu > li > a:hover {
+  color: #ffffff;
+  background:#006697;
+}
+.lnop {
+  padding-left: 15px;
+}
+
+.technology {
+  margin-bottom: 30px;
+  overflow:hidden;
+}
+.inermenu ul li ul {
+  border-radius: 0;
+  left: 180px;
+  top: -5px;
+  padding:0px;
+}
+.noticepage {
+  margin: 15px 0;
+}
+
+.social-button p {
+  color: #b8b8b8;
+  float: left;
+  margin: 7px 20px 7px -48px;
+}
+
+.clglogo {
+  float: none;
+}
+
+.govlgo {
+  float: none;
+  margin-top: 20px;
+}
+.npost img {
+  float: none;
+}
+}
