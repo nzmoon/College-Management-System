@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-	include("murad_db.php");
+	include("db.php");
 	$msg="";
 	if(isset($_POST['submit']))
 	{
